@@ -1,0 +1,9 @@
+streamlit
+langchain
+chromadb
+sentence_transformers
+langchain_cohere
+load_dotenv
+pydantic
+uvicorn
+
